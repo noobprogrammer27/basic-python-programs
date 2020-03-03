@@ -1,3 +1,4 @@
+#minimum changes required to make first string substring of second string
 def mini(S1, S2): 
 	n1=len(S1)#here we are getting length of the string
 	n2=len(S2) 
@@ -14,3 +15,11 @@ def mini(S1, S2):
 S1=input()#enter your own string or let it be like that
 S2=input()#enter your own string or let it be like that
 print(mini(S1, S2))
+
+"""i/p:
+s1=cdef
+s2=abbdef
+
+o/p:
+1"""
+#please check for indentation errors.
