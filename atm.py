@@ -1,8 +1,9 @@
 import time
 print("----------ATM MACHINE----------")
-print("Welcome to SBI ATM")
+print("Welcome to  xxxx ATM")
 print("Swipe Your Card please")
 amount=10000
+#your password is 2222
 
 y="2222"
 print("_________________")
